@@ -4,3 +4,6 @@ sentence-transformers
 pymupdf
 google-generativeai
 python-dotenv
+torch
+torchvision
+streamlit
